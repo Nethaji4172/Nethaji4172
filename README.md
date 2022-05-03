@@ -1,4 +1,4 @@
-<img src="https://nethajees.com/my-works/other-images/git-banner.gif" width="128"/>
+<img src="https://nethajees.com/my-works/other-images/git-banner.gif" width="100%"/>
 
 Hi 👋 My name is Nethaji Mytheeswaran
 =====================================
