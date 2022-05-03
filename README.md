@@ -1,5 +1,5 @@
 <img src="https://nethajees.com/my-works/other-images/git-banner.gif" width="100%" min-height="100%"  />
-
+<img src="https://nethajees.com/my-works/other-images/Github%20Banner.jpg" width="100%" min-height="100%"  />
 Hi 👋 My name is Nethaji Mytheeswaran
 =====================================
 
